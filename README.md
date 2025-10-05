@@ -19,6 +19,7 @@ Add this yml file to your repo to be able to deploy to vercel when you push to m
 - click: "Skip this and set up a workflow yourself"
 - paste: yml file contents from this repo, or add the file locally and commit it to skip this step
 - commit changes
+- pull the changes to get the file locally
 
 ## Github Action Env Setup
 - nagivate to "settings" tab from main repo page
@@ -59,7 +60,7 @@ Add this yml file to your repo to be able to deploy to vercel when you push to m
   ### VERCEL_ORG_ID:
   - navigate to vercel.com/account
   <img width="1051" height="423" alt="vercel-org" src="https://github.com/user-attachments/assets/3a1add07-9791-44f3-8998-22bfc3cb6ec8" />
- - scrol down (or find) Team, copy team id
+ - scroll down (or find) Team, copy team id
  <img width="1235" height="684" alt="vercel-org-2" src="https://github.com/user-attachments/assets/1091ce19-e3e9-4159-9842-3476e22d5d65" />
 
 
